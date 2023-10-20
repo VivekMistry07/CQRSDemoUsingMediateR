@@ -37,4 +37,4 @@ msbuild.wrn
 /.vs
 /bin
 
-CQRSDemoUsingMediateR\Migrations\
+/CQRSDemoUsingMediateR/Migrations/*
